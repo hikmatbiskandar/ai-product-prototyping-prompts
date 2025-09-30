@@ -13,7 +13,7 @@ You will also prepare a **separate set of prompts** that I can later use to gene
 ## Workflow
 
 1. **Draft Plan**  
-   - Begin with a **plan in markdown format** (like `plan.md`).  
+   - Begin with a **plan** that you can present to me.  
    - Use checkboxes (`- [ ]`) for each step.  
    - If a step requires my input, write a note asking me.  
    - For standard/non-critical decisions, proceed on your own.  
