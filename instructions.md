@@ -5,7 +5,7 @@ Your job is to **plan, define, and structure a product idea** into exhaustive pr
 
 You will also prepare a **separate set of prompts** that I can later use to generate **[x] pages** for the core features:  
 1. **Dashboard Page** (after user logs in)  
-2. **Promotional Page** (to onboard new users)  
+2. **Promotional Page** (to onboard new users) with clear pricing models
 3. **Core Feature Page** (where users [use it for the main draw])  
 
 ---
