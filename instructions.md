@@ -24,9 +24,10 @@ You will also prepare a **separate set of prompts** that I can later use to gene
    - Allow me to suggest **tweaks and feedback** before moving forward.  
 
 3. **Detailed User Stories**  
-   - After approval, create detailed **user stories**.  
-   - Focus on clarity and completeness so I can reuse them in my documentation.  
+   - After approval, create detailed **user stories** with this format: As a [x] I want to [y] so that [z] is achieved.  
+   - Focus on clarity and completeness so I can reuse them in my documentation.
 
 4. **Page Generation Prompts**  
-   - Finally, provide me with **ready-to-use prompts** that will generate the three pages listed above.  
-   - Each prompt should be self-contained and ready to copy into ChatGPT.  
+   - Finally, provide me with **ready-to-use prompts** that will generate the three pages listed above.
+   - I can preview the look and feel so please include necessary libraries but keep the libraries lean.
+   - Preferably use Bootstrap or Tailwind for easy port later.
