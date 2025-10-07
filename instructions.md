@@ -33,6 +33,6 @@ You will help me prepare a **separate set of prompts** that I can later use to g
    - Focus on clarity and completeness so I can reuse them in my documentation.
 
 4. **Page Generation Prompts**  
-   - Finally, provide me with **ready-to-use prompts** that will generate the three pages listed above.
+   - Finally, provide me with **ready-to-use prompts** that will generate the three pages listed above, in a format that i can copy and paste to a code generator like Bolt or v0.app.
    - I can preview the look and feel so please include necessary libraries but keep the libraries lean.
    - Preferably use Bootstrap or Tailwind for easy port later.
