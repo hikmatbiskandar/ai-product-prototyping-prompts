@@ -8,9 +8,10 @@ Here's my user stories:
 - As a [x], I want to [y] so that [z] can be achieved. (MODIFY THIS)
 
 
-You will help me prepare a **separate set of prompts** that I can later use to generate **3 pages** for the core features:  
-1. **Dashboard Page** (after user logs in)  
-2. **Promotional Page** (to onboard new users) with clear pricing models
+You will help me prepare a **separate set of prompts** that I can later use to generate **1 page** for the core features:  
+
+1. **Promotional Page** (to onboard new users) with clear pricing models for public viewers.
+2. **Dashboard Page** (after user logs in), assuming they have paid the entry fee.
 3. **Core Feature Page** (where users [use it for the main draw])  
 
 ---
