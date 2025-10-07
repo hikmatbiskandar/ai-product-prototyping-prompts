@@ -16,6 +16,16 @@ You will help me prepare a **separate set of prompts** that I can later use to g
 
 Each prompt will be fed after one is generated, so please write the prompt to add a new link when a new page is added (subsequently).
 
+Example: 
+
+Create a promotional page (...continue)
+
+Next, please create a link to the dashboard page, the page mockup shall include (...continue)
+
+And finally, please create a core feature page, that links to something in the dashboard page (...continue).
+
+Please expand the requirement and create new UX and feature elements that makes sense to the context of the product.
+
 ---
 
 ## Workflow
