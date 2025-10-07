@@ -12,7 +12,9 @@ You will help me prepare a **separate set of prompts** that I can later use to g
 
 1. **Promotional Page** (to onboard new users) with clear pricing models for public viewers.
 2. **Dashboard Page** (after user logs in), assuming they have paid the entry fee.
-3. **Core Feature Page** (where users [use it for the main draw])  
+3. **Core Feature Page** (where users [use it for the main draw])
+
+Each prompt will be fed after one is generated, so please write the prompt to add a new link when a new page is added (subsequently).
 
 ---
 
@@ -36,4 +38,4 @@ You will help me prepare a **separate set of prompts** that I can later use to g
 4. **Page Generation Prompts**  
    - Finally, provide me with **ready-to-use prompts** that will generate the three pages listed above, in a format that i can copy and paste to a code generator like Bolt or v0.app.
    - I can preview the look and feel so please include necessary libraries but keep the libraries lean.
-   - Preferably use Bootstrap or Tailwind for easy port later.
+   - Preferably use tsx / next.js.
