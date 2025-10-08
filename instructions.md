@@ -14,19 +14,15 @@ You will help me prepare a **separate set of prompts** that I can later use to g
 2. **Dashboard Page** (after user logs in), assuming they have paid the entry fee.
 3. **Core Feature Page** (where users [use it for the main draw])
 
-Each prompt will be fed after one is generated, so please write the prompt to add a new link when a new page is added (subsequently). Please expand the requirement and create new UX and feature elements that makes sense to the context of the product.
+I’m going to generate the pages one at a time in sequence. After each page is completed, I’ll provide the next prompt. So by the end, I expect a total of three pages.
 
-Example output: 
+When generating each page, please:
 
-Part 1:
-Create a promotional page (...continue)
+Add a link or reference to the previous pages as new ones are created.
 
-Part 2:
-Next, please create a link to the dashboard page, the page mockup shall include (...continue)
+Expand the requirements as needed to make the product more cohesive.
 
-Part 3:
-And finally, please create a core feature page, that links to something in the dashboard page (...continue).
-
+Introduce relevant UX flows and feature elements that logically fit the product context.
 
 
 ---
