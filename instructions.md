@@ -101,7 +101,6 @@ This page must introduce the product, explain its value clearly, and include:
 - Footer with navigation links  
 
 Ensure the UI is fully responsive, visually polished, and uses **Tailwind CSS**.  
-Output code only — no explanations.  
 Make sure to include links to `/dashboard` and `/app/core` for future pages.
 
 ---
@@ -118,7 +117,7 @@ Include:
 
 Cross-link to `/` (Promotional Page) and `/app/core` (Core Feature Page).  
 Maintain the same color scheme and layout rhythm.  
-Output code only.
+
 
 ---
 
@@ -135,4 +134,4 @@ Include:
 - Link back to `/dashboard`  
 
 Use Tailwind CSS with the same design language.  
-Output code only — ready for copy-paste into v0 or Bolt.
+
